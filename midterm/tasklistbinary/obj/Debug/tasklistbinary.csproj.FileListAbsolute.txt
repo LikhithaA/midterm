@@ -1,0 +1,7 @@
+C:\Users\GA\dfor740\midterm\tasklistbinary\bin\Debug\tasklistbinary.exe.config
+C:\Users\GA\dfor740\midterm\tasklistbinary\bin\Debug\tasklistbinary.exe
+C:\Users\GA\dfor740\midterm\tasklistbinary\bin\Debug\tasklistbinary.pdb
+C:\Users\GA\dfor740\midterm\tasklistbinary\obj\Debug\tasklistbinary.csproj.AssemblyReference.cache
+C:\Users\GA\dfor740\midterm\tasklistbinary\obj\Debug\tasklistbinary.csproj.CoreCompileInputs.cache
+C:\Users\GA\dfor740\midterm\tasklistbinary\obj\Debug\tasklistbinary.exe
+C:\Users\GA\dfor740\midterm\tasklistbinary\obj\Debug\tasklistbinary.pdb

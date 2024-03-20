@@ -1,0 +1,7 @@
+C:\Users\GA\dfor740\midterm\taskkillbinary\obj\Debug\taskkillbinary.csproj.AssemblyReference.cache
+C:\Users\GA\dfor740\midterm\taskkillbinary\obj\Debug\taskkillbinary.csproj.CoreCompileInputs.cache
+C:\Users\GA\dfor740\midterm\taskkillbinary\bin\Debug\taskkillbinary.exe.config
+C:\Users\GA\dfor740\midterm\taskkillbinary\bin\Debug\taskkillbinary.exe
+C:\Users\GA\dfor740\midterm\taskkillbinary\bin\Debug\taskkillbinary.pdb
+C:\Users\GA\dfor740\midterm\taskkillbinary\obj\Debug\taskkillbinary.exe
+C:\Users\GA\dfor740\midterm\taskkillbinary\obj\Debug\taskkillbinary.pdb
